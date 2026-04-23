@@ -1,3 +1,7 @@
+# 0.18.2
+
+- Upgrade `analyzer` to `^10.0.0`.
+
 # 0.18.1
 
 - Remove unused and deprecated dependency `build_resolvers` which blocks using `analyzer` 10.0 or higher.
