@@ -1,3 +1,7 @@
+# 0.18.1
+
+- Remove unused and deprecated dependency `build_resolvers` which blocks using `analyzer` 10.0 or higher.
+
 # 0.18.0
 
 - Added support for default column values via the `@Default` annotation.
